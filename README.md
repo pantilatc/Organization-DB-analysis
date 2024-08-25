@@ -1,1 +1,1 @@
-[View the PDF](./Data_analysis_and_visualizations.pdf)
+  [View the PDF].(https://drive.google.com/file/d/1lnc1UmLcAVFfFyi0SNYih1xih8LyyTFt/view?usp=sharing)
